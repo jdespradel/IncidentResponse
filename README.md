@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I created an incident report base on one of the Google Cybersecurity Certificate example scenarios: 
+In this project, I created an incident report based on one of the Google Cybersecurity Certificate example scenarios: 
 
 You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
 
